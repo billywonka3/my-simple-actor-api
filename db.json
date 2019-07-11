@@ -1,0 +1,22 @@
+{
+  "celebArray" : [
+    {
+      "id":1,
+      "name": "Duck Dynasty Dude",
+      "occupation": "Duck Hunt Champion",
+      "catchPhrase": "I dont give a duck"
+    },
+    {
+      "id":2,
+      "name": "Barney Stinson",
+      "occupation": "Unknown",
+      "catchPhrase": "When im sad, I stop being sad and be awesome instead"
+    },
+    {
+      "id":3,
+      "name": "Vegeta",
+      "occupation": "Dominator of worlds",
+      "catchPhrase": "Its over 9000!"
+    }
+  ]
+}
